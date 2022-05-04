@@ -1,0 +1,12 @@
+# Complilatin-React
+/static/DjangoMinimalMaterialKitReact/*
+/package-lock.json
+
+# Compilation-JScript
+/node_modules/
+
+# Compilation-Django
+/migrations/
+
+# Compilation-Python
+/__pycache__/
